@@ -1,0 +1,7 @@
+- import game/player stats from text file
+- when game is deleted from schedule, also delete game and player stats
+- audit roster to check that players have logged stats
+- other audit tasks: seasons, schedules, stats, articles, created teams, custom conferences
+
+COMPLETE
+**** custom conferences interface 
